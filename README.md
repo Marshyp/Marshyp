@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a **Cyber Security Lead**
 
-- 📫 How to reach me **contact@marshlab.net**
+- 📫 How to reach me **Phil@marshlab.net**
 
 <h3 align="left">Connect with me:</h3>
 
