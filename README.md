@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Philip Marsh</h1>
+a<h1 align="center">Hi 👋, I'm Philip Marsh</h1>
 <h3 align="center">A Cyber Security engineer from England.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marshyp&label=Profile%20views&color=0e75b6&style=flat" alt="marshyp" /> </p>
@@ -12,6 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- GitHub
-- Email
+- 🧑‍💻 GitHub
+- ✉️ Email
 - 😄 Pronouns: He/Him
