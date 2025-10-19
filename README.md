@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="/resources/header.png" width="600" height="300"/>
+  <img src="/resources/header.png" width="600" height="600"/>
 </div>
 
 ---
@@ -27,13 +27,13 @@ I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5M
 - 😄 Pronouns: He/Him
 - 🛡️ Moderator and contributor on the <a href="https://discord.com/invite/microsoft-ems-community-1008077287813550090">Microsoft EMS Discord</a>
 - 🧰 Always cooking up ideas and tools to make life easier!
----
-
 
 ---
 
+<div align="center">
 ### :fire: My Stats :
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marshyp&show_icons=true&locale=en" alt="marshyp" />
+</div>
 
 ---
 
