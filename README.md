@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="/resources/header-image.png" width="400" height="400"/>
+  <img src="/resources/hi.png" width="1000" height="260"/>
 </div>
 
 ---
