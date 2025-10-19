@@ -15,7 +15,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="/resources/header.png" width="600" height="600"/>
+  <img src="/resources/header-image.png" width="400" height="400"/>
 </div>
 
 ---
@@ -30,8 +30,8 @@ I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5M
 
 ---
 
-<div align="center">
 ### :fire: My Stats :
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marshyp&show_icons=true&locale=en" alt="marshyp" />
 </div>
 
