@@ -39,8 +39,8 @@ I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5M
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Sentinel Saturdays: Tag and Track Incidents with Custom Incident Labels](https://marshsecurity.org/sentinel-saturdays-tag-and-track-incidents-with-custom-incident-labels/)
 - [Useful tools for the SOC](https://marshsecurity.org/useful-tools-for-the-soc/)
 - [Sentinel Skills Saturday  - Edition 1.](https://marshsecurity.org/sentinel-skills-saturday-edition-one/)
 - [Protecting against ClickFix with the Microsoft Stack](https://marshsecurity.org/protecting-against-clickfix-with-the-microsoft-stack/)
-- [Restoring Microsoft Entra Conditional Access Policies](https://marshsecurity.org/restoring-microsoft-entra-conditional-access-policies/)
 <!-- BLOG-POST-LIST:END -->
