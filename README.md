@@ -39,8 +39,8 @@ I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5M
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Sentinel Saturday - Using Tasks with Automation](https://marshsecurity.org/sentinel-saturday-using-tasks-with-automation/)
 - [Sentinel Saturdays: Automating the common tasks](https://marshsecurity.org/sentinel-saturdays-automating-the-common-tasks/)
 - [Sentinel Saturdays: Use External Data Sources in Your Threat Hunts](https://marshsecurity.org/sentinel-saturdays-use-external-data-sources-in-your-threat-hunts/)
 - [Sentinel Saturdays: Tag and Track Incidents with Custom Incident Labels](https://marshsecurity.org/sentinel-saturdays-tag-and-track-incidents-with-custom-incident-labels/)
-- [Useful tools for the SOC](https://marshsecurity.org/useful-tools-for-the-soc/)
 <!-- BLOG-POST-LIST:END -->
