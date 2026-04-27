@@ -39,8 +39,8 @@ I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5M
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging RMAUs to protect your sensitive resources](https://marshsecurity.org/leveraging-rmaus-to-protect-your-sensitive-resources/)
 - [Sentinel Saturday - Are your analytics rules actually doing what you think?](https://marshsecurity.org/sentinel-saturday-are-your-analytics-rules-actually-doing-what-you-think/)
 - [Sentinel Saturday - Using Tasks with Automation](https://marshsecurity.org/sentinel-saturday-using-tasks-with-automation/)
 - [Sentinel Saturdays: Automating the common tasks](https://marshsecurity.org/sentinel-saturdays-automating-the-common-tasks/)
-- [Sentinel Saturdays: Use External Data Sources in Your Threat Hunts](https://marshsecurity.org/sentinel-saturdays-use-external-data-sources-in-your-threat-hunts/)
 <!-- BLOG-POST-LIST:END -->
