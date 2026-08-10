@@ -39,8 +39,8 @@ I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5M
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Protecting against a lost or stolen mobile](https://marshsecurity.org/protecting-against-lost-stolen-mobile-microsoft-security/)
 - [Securing your Breakglass accounts](https://marshsecurity.org/securing-your-breakglass-accounts/)
 - [Unpin Microsoft 365 Companion Apps via Intune](https://marshsecurity.org/unpin-microsoft-365-companion-apps-via-intune/)
 - [Leveraging RMAUs to protect your sensitive resources](https://marshsecurity.org/leveraging-rmaus-to-protect-your-sensitive-resources/)
-- [Sentinel Saturday - Are your analytics rules actually doing what you think?](https://marshsecurity.org/sentinel-saturday-are-your-analytics-rules-actually-doing-what-you-think/)
 <!-- BLOG-POST-LIST:END -->
