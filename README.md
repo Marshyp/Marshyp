@@ -21,9 +21,9 @@
 ---
 
 ### About Me :
-I am a Cyber Security Lead <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJteHJsNGc3NXZvbG9zaHpmbXE3cG50MTJ2eTJnZTM3cjhsN2R0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUz0F5Sa3pq59aEX3Q/giphy.gif" width="30"> from Manchester, England.
+I am a Cyber Security Solutions Architect <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJteHJsNGc3NXZvbG9zaHpmbXE3cG50MTJ2eTJnZTM3cjhsN2R0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUz0F5Sa3pq59aEX3Q/giphy.gif" width="30"> from Manchester, England.
 
-- 🔭 I’m currently working as a **Cyber Security Lead** in Legal.
+- 🔭 I’m currently working as a **Cyber Security Solutions Architect** in Legal.
 - 😄 Pronouns: He/Him
 - 🛡️ Moderator and contributor on the <a href="https://discord.com/invite/microsoft-ems-community-1008077287813550090">Microsoft EMS Discord</a>
 - 🧰 Always cooking up ideas and tools to make life easier!
