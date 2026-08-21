@@ -39,8 +39,8 @@ I am a Cyber Security Solutions Architect <img src="https://media1.giphy.com/med
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Securing Windows for Home Users](https://marshsecurity.org/securing-windows-for-home-users/)
 - [Protecting against a lost or stolen mobile](https://marshsecurity.org/protecting-against-lost-stolen-mobile-microsoft-security/)
 - [Securing your Breakglass accounts](https://marshsecurity.org/securing-your-breakglass-accounts/)
 - [Unpin Microsoft 365 Companion Apps via Intune](https://marshsecurity.org/unpin-microsoft-365-companion-apps-via-intune/)
-- [Leveraging RMAUs to protect your sensitive resources](https://marshsecurity.org/leveraging-rmaus-to-protect-your-sensitive-resources/)
 <!-- BLOG-POST-LIST:END -->
