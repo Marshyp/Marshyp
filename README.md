@@ -17,10 +17,20 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="./resources/divider.png" width="600" height="1"/>
+</div>
+
 Cyber Security Engineer <code style="color: #1C8051">•</code> Security Architect <code style="color: #1C8051">•</code> Builder of Useful Things
 
 <div align="center">
   <img src="./resources/TopBanner.png" width="1000" height="350"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./resources/divider.png" width="600" height="1"/>
 </div>
 
 </div>
@@ -55,6 +65,12 @@ I’m particularly interested in making security tooling and guidance **practica
 <br>
 
 <div align="center">
+  <img src="./resources/divider.png" width="600" height="1"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="./resources/Blog Posts.png" alt="Blog Posts" width="320" />
 </div>
 
@@ -74,6 +90,12 @@ Here are some of my latest blog posts:
 <br>
 
 <div align="center">
+  <img src="./resources/divider.png" width="600" height="1"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="./resources/Socials.png" alt="Socials" width="320" />
 </div>
 
@@ -85,6 +107,12 @@ You can find me around the internet here:
 - 💻 **GitHub:** [@Marshyp](https://github.com/Marshyp)
 
 I’m always happy to talk security engineering, Sentinel, Defender, detection logic, architecture, tooling, automation or interesting security problems.
+
+<br>
+
+<div align="center">
+  <img src="./resources/divider.png" width="600" height="1"/>
+</div>
 
 <br>
 
@@ -102,6 +130,12 @@ I’m always happy to talk security engineering, Sentinel, Defender, detection l
 
 <br>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./resources/divider.png" width="600" height="1"/>
 </div>
 
 <br>
