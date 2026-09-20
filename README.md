@@ -18,7 +18,7 @@
   </h1>
 </div>
 
-### Cyber Security Engineer <p style="color: #1C8051;">•</p> Security Architect <p style="color: #1C8051;">•</p> Builder of Useful Things
+Cyber Security Engineer <p style="color: #1C8051;">•</p> Security Architect <p style="color: #1C8051;">•</p> Builder of Useful Things
 
 <div align="center">
   <img src="./resources/TopBanner.png" width="1000" height="350"/>
