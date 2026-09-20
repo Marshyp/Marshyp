@@ -37,14 +37,14 @@ My work focuses heavily on modern enterprise security, particularly across the M
 
 A lot of what I build, test, and write about centres around:
 
-🛡️ Microsoft SIEM & XDR
-🔎 Detection Engineering & Threat Hunting
-💻 Endpoint Security
-☁️ Microsoft Entra ID & Cloud Security
-⚙️ Security Automation
-📊 Security Architecture
-🧰 PowerShell, KQL and security tooling
-🧪 Testing, research and generally **buggin' things**
+- 🛡️ Microsoft SIEM & XDR
+- 🔎 Detection Engineering & Threat Hunting
+- 💻 Endpoint Security
+- ☁️ Microsoft Entra ID & Cloud Security
+- ⚙️ Security Automation
+- 📊 Security Architecture
+- 🧰 PowerShell, KQL and security tooling
+- 🧪 Testing, research and generally **buggin' things**
 
 I’m particularly interested in making security tooling and guidance **practical, understandable and useful in the real world**.
 
@@ -79,10 +79,10 @@ Here are some of my latest blog posts:
 
 You can find me around the internet here:
 
-🌐 **Website:** [marshsecurity.org](https://marshsecurity.org)
-💼 **LinkedIn:** [Philip Marsh](https://www.linkedin.com/marshsecurity)
-🦋 **Bluesky:** [@marshsecurity.org](https://bsky.app/profile/marshsecurity.org)
-💻 **GitHub:** [@Marshyp](https://github.com/Marshyp)
+- 🌐 **Website:** [marshsecurity.org](https://marshsecurity.org)
+- 💼 **LinkedIn:** [Philip Marsh](https://www.linkedin.com/marshsecurity)
+- 🦋 **Bluesky:** [@marshsecurity.org](https://bsky.app/profile/marshsecurity.org)
+- 💻 **GitHub:** [@Marshyp](https://github.com/Marshyp)
 
 I’m always happy to talk security engineering, Sentinel, Defender, detection logic, architecture, tooling, automation or interesting security problems.
 
