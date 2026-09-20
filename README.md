@@ -25,8 +25,6 @@
 
 Cyber Security Engineer <code style="color: #1C8051">•</code> Security Architect <code style="color: #1C8051">•</code> Builder of Useful Things
 
-<br>
-
 <div align="center">
   <img src="./resources/divider.png" width="600" height="1"/>
 </div>
