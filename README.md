@@ -27,6 +27,8 @@ Cyber Security Engineer <code style="color: #1C8051">•</code> Security Archite
   <img src="./resources/divider.png" width="600" height="1"/>
 </div>
 
+<br>
+
 <div align="center">
   <img src="./resources/TopBanner.png" width="1000" height="350"/>
 </div>
