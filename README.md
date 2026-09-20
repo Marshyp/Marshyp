@@ -110,7 +110,7 @@ Here are some of my latest blog posts:
 You can find me around the internet here:
 
 - 🌐 **Website:** [marshsecurity.org](https://marshsecurity.org)
-- 💼 **LinkedIn:** [Philip Marsh](https://www.linkedin.com/marshsecurity)
+- 💼 **LinkedIn:** [Philip Marsh](https://www.linkedin.com/in/marshsecurity)
 - 🦋 **Bluesky:** [@marshsecurity.org](https://bsky.app/profile/marshsecurity.org)
 - 💻 **GitHub:** [@Marshyp](https://github.com/Marshyp)
 
