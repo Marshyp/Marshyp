@@ -65,7 +65,10 @@ Here are some of my latest blog posts:
 ### 🌐 [MarshSecurity.org](https://marshsecurity.org)
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Securing Windows for Home Users](https://marshsecurity.org/securing-windows-for-home-users/)
+- [Protecting against a lost or stolen mobile](https://marshsecurity.org/protecting-against-lost-stolen-mobile-microsoft-security/)
+- [Securing your Breakglass accounts](https://marshsecurity.org/securing-your-breakglass-accounts/)
+- [Unpin Microsoft 365 Companion Apps via Intune](https://marshsecurity.org/unpin-microsoft-365-companion-apps-via-intune/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
