@@ -18,15 +18,11 @@
   </h1>
 </div>
 
-# Marshyp
-
-### Cyber Security Engineer • Security Architect • Builder of Useful Things
+### Cyber Security Engineer <p style="color: #1C8051;">•</p> Security Architect <p style="color: #1C8051;">•</p> Builder of Useful Things
 
 <div align="center">
-  <img src="./resources/TopBanner.png" width="1000" height="260"/>
+  <img src="./resources/TopBanner.png" width="1000" height="350"/>
 </div>
-
-<img src="./resources/Breaking things, to better things.png" alt="Breaking things, to better things" />
 
 </div>
 
@@ -40,18 +36,18 @@ My work focuses heavily on modern enterprise security, particularly across the M
 
 A lot of what I build, test, and write about centres around:
 
-- 🛡️ Microsoft SIEM & XDR
-- 🔎 Detection Engineering & Threat Hunting
-- 💻 Endpoint Security
-- ☁️ Microsoft Entra ID & Cloud Security
-- ⚙️ Security Automation
-- 📊 Security Architecture
-- 🧰 PowerShell, KQL and security tooling
-- 🧪 Testing, research and generally **buggin' things**
+🛡️ Microsoft SIEM & XDR
+🔎 Detection Engineering & Threat Hunting
+💻 Endpoint Security
+☁️ Microsoft Entra ID & Cloud Security
+⚙️ Security Automation
+📊 Security Architecture
+🧰 PowerShell, KQL and security tooling
+🧪 Testing, research and generally **buggin' things**
 
 I’m particularly interested in making security tooling and guidance **practical, understandable and useful in the real world**.
 
-<img src="./resources/Breaking things to better things.png" alt="Breaking things, to better things" />
+<img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
 
 <br>
 
@@ -73,10 +69,10 @@ Here are some of my latest blog posts:
 
 You can find me around the internet here:
 
-- 🌐 **Website:** [marshsecurity.org](https://marshsecurity.org)
-- 💼 **LinkedIn:** [Philip Marsh](https://www.linkedin.com/)
-- 🦋 **Bluesky:** [@marshsecurity.org](https://bsky.app/profile/marshsecurity.org)
-- 💻 **GitHub:** [@Marshyp](https://github.com/Marshyp)
+🌐 **Website:** [marshsecurity.org](https://marshsecurity.org)
+💼 **LinkedIn:** [Philip Marsh](https://www.linkedin.com/marshsecurity)
+🦋 **Bluesky:** [@marshsecurity.org](https://bsky.app/profile/marshsecurity.org)
+💻 **GitHub:** [@Marshyp](https://github.com/Marshyp)
 
 I’m always happy to talk security engineering, Sentinel, Defender, detection logic, architecture, tooling, automation or interesting security problems.
 
@@ -103,6 +99,8 @@ I’m always happy to talk security engineering, Sentinel, Defender, detection l
 ### 🛡️ Build. Detect. Defend. Automate. Improve.
 
 **[MarshSecurity.org](https://marshsecurity.org)**
+
+<img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
 
 </div>
 </div>
