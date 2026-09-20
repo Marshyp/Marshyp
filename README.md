@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJtMGo3cmgzdTc0ZzFtaThneW9iYnJ3c2Z5Y3J3a3FyMDdwNXkyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FQxpCWS4ZyvNFCTKHJ/giphy.gif" width="100"/>
@@ -28,7 +27,9 @@ Cyber Security Engineer <code style="color: #1C8051">•</code> Security Archite
 
 <br>
 
-<img src="./resources/About Me.png" alt="About Me" width="320" />
+<div align="center"> 
+  <img src="./resources/About Me.png" alt="About Me" width="320" />
+</div>
 
 Hi! I’m **Philip Marsh**, a Cyber Security Architect based in the UK, working in the legal sector.
 
@@ -47,11 +48,15 @@ A lot of what I build, test, and write about centres around:
 
 I’m particularly interested in making security tooling and guidance **practical, understandable and useful in the real world**.
 
-<img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
+<div align="center">
+  <img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
+</div>
 
 <br>
 
-<img src="./resources/Blog Posts.png" alt="Blog Posts" width="320" />
+<div align="center">
+  <img src="./resources/Blog Posts.png" alt="Blog Posts" width="320" />
+</div>
 
 I regularly publish practical security content covering Microsoft Security, enterprise architecture, detection engineering, automation and lessons learned from the field.
 
@@ -65,7 +70,9 @@ Here are some of my latest blog posts:
 
 <br>
 
-<img src="./resources/Socials.png" alt="Socials" width="320" />
+<div align="center">
+  <img src="./resources/Socials.png" alt="Socials" width="320" />
+</div>
 
 You can find me around the internet here:
 
@@ -78,7 +85,9 @@ I’m always happy to talk security engineering, Sentinel, Defender, detection l
 
 <br>
 
-<img src="./resources/My Stats.png" alt="My Stats" width="320" />
+<div align="center">
+  <img src="./resources/My Stats.png" alt="My Stats" width="320" />
+</div>
 
 <div align="center">
 
@@ -102,5 +111,4 @@ I’m always happy to talk security engineering, Sentinel, Defender, detection l
 
 <img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
 
-</div>
 </div>
