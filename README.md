@@ -49,7 +49,7 @@ A lot of what I build, test, and write about centres around:
 I’m particularly interested in making security tooling and guidance **practical, understandable and useful in the real world**.
 
 <div align="center">
-  <img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
+  <img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" height="128" />
 </div>
 
 <br>
@@ -112,6 +112,8 @@ I’m always happy to talk security engineering, Sentinel, Defender, detection l
 
 **[MarshSecurity.org](https://marshsecurity.org)**
 
-<img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" />
+<div align="center">
+  <img src="./resources/breaking things to better things.png" alt="Breaking things, to better things" height="128" />
+</div>
 
 </div>
